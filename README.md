@@ -7,7 +7,7 @@ local UIS = game:GetService("UserInputService")
 local player = Players.LocalPlayer
 
 -- ==================== CONFIGURAÇÕES ====================
-local DISCORD_INVITE = "https://discord.gg/SEU_CONVITE_AQUI"
+local DISCORD_INVITE = "https://discord.gg/zApc9WmU6"
 local KEY_PERMANENTE = "GOKUBLACK_ADMIN"
 
 local KEYS_TEMPORARIAS = {
